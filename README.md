@@ -4,10 +4,10 @@
 
 A Quiz application to test your knowledge about programming langauge and can be used for any topic of choice
 
-#Upcoming Features
+# Upcoming Features
 - Add new topics
 - Share result with social friends
 - Earn a badge with high scores
 
-#Disclaimer
+# Disclaimer
 - This is a demo project for proof of concept only.
